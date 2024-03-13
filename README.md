@@ -1,4 +1,3 @@
-(see it in a raw file mode if u can see it in that mode)
 Diary
  
 | Name of Project                          | Start Date    |End Date         |
