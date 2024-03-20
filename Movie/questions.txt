@@ -1,0 +1,53 @@
+### Assignment: Exploring IMDb Movie Dataset
+
+#### Objective:
+Your task is to perform an analysis of the IMDb Movie Dataset. You will explore various aspects of the dataset, conduct data cleaning, analyze trends, and create visualizations to present your findings.
+
+#### Dataset:
+You have been provided with a dataset containing information about the top 250 movies according to IMDb ratings. The dataset includes columns such as rank, name, year, rating, genre, budget, box office, and more.
+
+#### Tasks:
+
+1. **Data Loading and Exploration:**
+   - Load the provided dataset into a Pandas DataFrame.
+   - Display the first few rows of the dataset to understand its structure.
+   - Check for any missing values and handle them appropriately.
+   - Explore the summary statistics of numerical columns.
+
+2. **Data Analysis:**
+   - Analyze the distribution of movie genres.
+   - Investigate trends in movie release years.
+   - Explore the relationship between ratings and budget.
+
+3. **Data Cleaning:**
+   - Convert columns like `budget` and `box_office` to appropriate numerical data types.
+   - Handle any missing or erroneous data in the dataset.
+
+4. **Data Visualization:**
+   - Create visualizations to represent the distribution of movie genres (e.g., pie chart or bar chart).
+   - Visualize the trends in movie release years (e.g., line chart or histogram).
+   - Create scatter plots to explore relationships between ratings and budget.
+
+5. **Interactive Visualization:**
+   - Choose one or two interesting insights from your analysis.
+   - Create interactive visualizations using Plotly or any other interactive visualization library to present these insights.
+   - Ensure the interactive visualizations are engaging and easy to interact with.
+
+6. **Conclusion:**
+   - Summarize the key findings from your analysis.
+   - Reflect on any interesting trends or patterns discovered in the data.
+   - Provide insights into the movie industry based on your analysis.
+
+#### Submission:
+
+- Write Python code to complete the tasks outlined above.
+- Include comments in your code to explain each step and provide context where necessary.
+- Create a separate document (e.g., PDF or Markdown) to present your findings, including visualizations and insights.
+- Submit both the Python code file and the document containing your findings.
+
+#### Additional Notes:
+
+- You can use libraries like Pandas, Matplotlib, and Plotly for data analysis and visualization.
+- Feel free to explore other interesting aspects of the dataset beyond the tasks mentioned above.
+- Use your creativity to present your findings in a visually appealing and engaging manner.
+- Enjoy the process of exploring and analyzing IMDb movie data!
